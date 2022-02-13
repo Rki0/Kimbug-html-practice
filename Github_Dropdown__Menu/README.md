@@ -1,7 +1,6 @@
 # Github Dropdown Menu
 
-<video src="
-https://user-images.githubusercontent.com/86224851/153756681-b147edbd-02f6-4408-9c0d-cd69b1f0f519.mov"></video>
+<img src="https://user-images.githubusercontent.com/86224851/153758179-fd5660b5-f48e-4839-aeea-b84aadb0f64e.gif">
 
 이 예제에서는 Github에서 프로필을 눌렀을 때 보여지는 Dropdown Menu를 만들어봤다.  
 크게 두 개의 파트로 나눌 수 있다.
